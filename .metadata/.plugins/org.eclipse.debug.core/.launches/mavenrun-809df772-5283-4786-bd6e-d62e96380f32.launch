@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.m2e.Maven2LaunchConfigurationType">
+    <booleanAttribute key="M2_BATCH" value="false"/>
+    <stringAttribute key="M2_GOALS" value="-U archetype:generate"/>
+    <listAttribute key="M2_PROPERTIES">
+        <listEntry value="archetypeGroupId=org.apache.maven.archetypes"/>
+        <listEntry value="archetypeArtifactId=maven-archetype-simple"/>
+        <listEntry value="archetypeVersion=1.4"/>
+        <listEntry value="groupId=hn.uth"/>
+        <listEntry value="artifactId=EjerClase"/>
+        <listEntry value="version=1.0.0"/>
+        <listEntry value="package=hn.uth.EjerClase"/>
+        <listEntry value="outputDirectory=C:\Users\Yohana Padilla\Desktop\Avanzada 2\Proyectos"/>
+    </listAttribute>
+    <booleanAttribute key="M2_SAVE_BEFORE_LAUNCH" value="false"/>
+    <booleanAttribute key="org.eclipse.debug.ui.private" value="true"/>
+    <stringAttribute key="org.eclipse.jdt.launching.WORKING_DIRECTORY" value="C:\Users\YOHANA~1\AppData\Local\Temp\m2e-archetypeGenerator9641583368557801155"/>
+</launchConfiguration>
