@@ -7,4 +7,6 @@
     <fullyQualifiedTypeName name="org.junit.After"/>
     <fullyQualifiedTypeName name="org.junit.BeforeClass"/>
     <fullyQualifiedTypeName name="java.util.Random"/>
+    <fullyQualifiedTypeName name="com.vaadin.flow.component.textfield.NumberField"/>
+    <fullyQualifiedTypeName name="hn.uth.data.Empleado"/>
 </qualifiedTypeNameHistroy>
