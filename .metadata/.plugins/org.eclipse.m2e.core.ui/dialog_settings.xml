@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Users\Yohana Padilla\Desktop\Avanzada 2\Proyectos\Tarea1YP"/>
 			<item value="C:\Users\Yohana Padilla\Desktop\Avanzada 2\Proyectos"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -26,6 +27,7 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="hn.uth.T1YPadilla"/>
 			<item value="hn.uth.EjerClase"/>
 			<item value="hn.uth.test_maven_2024"/>
 		</list>
@@ -33,6 +35,7 @@
 			<item value="hn.uth"/>
 		</list>
 		<list key="artifactId">
+			<item value="T1YPadilla"/>
 			<item value="EjerClase"/>
 			<item value="test-maven-2024"/>
 		</list>
@@ -73,6 +76,7 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\Yohana Padilla\Desktop\Avanzada 2\Proyectos\ProgAvanzada2_202401"/>
 			<item value="C:\Users\Yohana Padilla\Desktop\Avanzada 2\Proyectos\sistemamatricula\sistemamatricula"/>
 		</list>
 		<list key="projectNameTemplate">
