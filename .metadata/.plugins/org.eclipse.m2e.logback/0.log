@@ -4832,3 +4832,4 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.lucee:jci
 2024-02-10 20:49:41,320 [Worker-25: Building] INFO  c.v.f.s.f.TaskCopyFrontendFiles - Copying frontend resources from jar files ...
 2024-02-10 20:49:41,792 [Worker-25: Building] INFO  c.v.f.s.f.TaskCopyFrontendFiles - Visited 156 resources. Took 471 ms.
 2024-02-10 20:49:41,802 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Yohana Padilla\Desktop\Avanzada 2\Proyectos\ProgAvanzada2_202401\sistemamatricula\src\test\resources
+2024-02-16 17:42:42,321 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
