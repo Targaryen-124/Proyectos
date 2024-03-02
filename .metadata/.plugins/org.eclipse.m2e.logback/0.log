@@ -4833,3 +4833,27 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.lucee:jci
 2024-02-10 20:49:41,792 [Worker-25: Building] INFO  c.v.f.s.f.TaskCopyFrontendFiles - Visited 156 resources. Took 471 ms.
 2024-02-10 20:49:41,802 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Yohana Padilla\Desktop\Avanzada 2\Proyectos\ProgAvanzada2_202401\sistemamatricula\src\test\resources
 2024-02-16 17:42:42,321 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-03-01 19:09:19,649 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-03-01 19:09:23,278 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-01 19:09:23,280 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yohana Padilla\Desktop\Avanzada 2\Proyectos\EjerClase\src\main\resources
+2024-03-01 19:09:23,284 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-01 19:09:23,284 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yohana Padilla\Desktop\Avanzada 2\Proyectos\EjerClase\src\test\resources
+2024-03-01 19:09:23,811 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-01 19:09:23,811 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yohana Padilla\Desktop\Avanzada 2\Proyectos\Tarea1YP\T1YPadilla\src\main\resources
+2024-03-01 19:09:23,814 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-01 19:09:23,815 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yohana Padilla\Desktop\Avanzada 2\Proyectos\Tarea1YP\T1YPadilla\src\test\resources
+2024-03-01 19:09:24,519 [Worker-6: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: hn.uth:junit-test-app:1.0.0 @ C:\Users\Yohana Padilla\Desktop\Avanzada 2\Proyectos\ProgAvanzada2_202401\junit-test-app\pom.xml.
+2024-03-01 19:09:24,586 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-01 19:09:24,586 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yohana Padilla\Desktop\Avanzada 2\Proyectos\ProgAvanzada2_202401\junit-test-app\src\main\resources
+2024-03-01 19:09:24,588 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-01 19:09:24,589 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yohana Padilla\Desktop\Avanzada 2\Proyectos\ProgAvanzada2_202401\junit-test-app\src\test\resources
+2024-03-01 19:09:28,129 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-01 19:09:28,157 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-03-01 19:09:50,995 [Worker-0: Building] INFO  org.reflections.Reflections - Reflections took 1466 ms to scan 157 urls, producing 8907 keys and 43966 values
+2024-03-01 19:09:51,031 [Worker-0: Building] INFO  c.v.f.s.f.TaskCopyFrontendFiles - Copying frontend resources from jar files ...
+2024-03-01 19:09:51,488 [Worker-0: Building] INFO  c.v.f.s.f.TaskCopyFrontendFiles - Visited 156 resources. Took 456 ms.
+2024-03-01 19:09:51,518 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Yohana Padilla\Desktop\Avanzada 2\Proyectos\sistemamatricula\sistemamatricula\src\test\resources
+2024-03-01 19:10:02,051 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-01 19:10:02,051 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yohana Padilla\Desktop\Avanzada 2\Proyectos\test-maven-2024\src\main\resources
+2024-03-01 19:10:02,053 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-01 19:10:02,053 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Yohana Padilla\Desktop\Avanzada 2\Proyectos\test-maven-2024\src\test\resources
