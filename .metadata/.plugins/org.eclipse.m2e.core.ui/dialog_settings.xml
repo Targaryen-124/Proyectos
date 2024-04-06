@@ -71,11 +71,21 @@
 		</list>
 	</section>
 	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
 	</section>
 	<section name="org.eclipse.m2e.core.pom.dependencies">
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\Yohana Padilla\Desktop\Avanzada 2\my-app"/>
+			<item value="C:\Users\Yohana Padilla\Desktop\Avanzada 2\Proyectos\ProyectoGestionInventarioSupermercado"/>
 			<item value="C:\Users\Yohana Padilla\Desktop\Avanzada 2\Proyectos\ProgAvanzada2_202401"/>
 			<item value="C:\Users\Yohana Padilla\Desktop\Avanzada 2\Proyectos\sistemamatricula\sistemamatricula"/>
 		</list>
