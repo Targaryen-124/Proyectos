@@ -9,4 +9,5 @@
     <fullyQualifiedTypeName name="com.vaadin.flow.component.textfield.NumberField"/>
     <fullyQualifiedTypeName name="hn.uth.data.Empleado"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.util.stream.Collectors"/>
 </qualifiedTypeNameHistroy>

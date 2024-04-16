@@ -1,0 +1,49 @@
+@import url('./main-layout.css');
+@import url('./views/registrode-vehículo-view.css');
+@import url('./views/ordende-reparación-view.css');
+@import url('./views/orden-sr-view.css');
+@import url('./views/servicios-view.css');
+@import url('./views/repuestos-view.css');
+@import url('./views/detallesde-orden-view.css');
+@import url('@fontsource/poppins/index.css');    html {
+      --lumo-border-radius-s: calc(var(--lumo-size-m) / 6);
+      --lumo-border-radius-m: calc(var(--lumo-size-m) / 2);
+      --lumo-border-radius-l: var(--lumo-size-m);
+      --lumo-size-xl: 3rem;
+      --lumo-size-l: 2.5rem;
+      --lumo-size-m: 2rem;
+      --lumo-size-s: 1.75rem;
+      --lumo-size-xs: 1.5rem;
+      --lumo-space-xl: 1.875rem;
+      --lumo-space-l: 1.25rem;
+      --lumo-space-m: 0.625rem;
+      --lumo-space-s: 0.3125rem;
+      --lumo-space-xs: 0.1875rem;
+--lumo-font-family: Poppins;
+
+    }
+
+    [theme~="dark"] {
+      --lumo-base-color: rgba(20, 21, 38, 1);
+      --lumo-success-color: hsl(159, 76%, 57%);
+      --lumo-success-color-50pct: hsla(159, 76%, 57%, 0.5);
+      --lumo-success-color-10pct: hsla(159, 76%, 57%, 0.1);
+      --lumo-primary-color: hsla(136, 100%, 39%, 1);
+      --lumo-primary-color-50pct: hsla(136, 100%, 39%, 0.5);
+      --lumo-primary-color-10pct: hsla(136, 100%, 39%, 0.1);
+      --lumo-primary-text-color: hsl(136, 100%, 39%);
+      --lumo-shade: rgba(17, 109, 110, 0.83);
+      --lumo-shade-5pct: rgba(17, 109, 110, 0.05);
+      --lumo-shade-10pct: rgba(17, 109, 110, 0.1);
+      --lumo-shade-20pct: rgba(17, 109, 110, 0.2);
+      --lumo-shade-30pct: rgba(17, 109, 110, 0.3);
+      --lumo-shade-40pct: rgba(17, 109, 110, 0.4);
+      --lumo-shade-50pct: rgba(17, 109, 110, 0.5);
+      --lumo-shade-60pct: rgba(17, 109, 110, 0.6);
+      --lumo-shade-70pct: rgba(17, 109, 110, 0.7);
+      --lumo-shade-80pct: rgba(17, 109, 110, 0.8);
+      --lumo-shade-90pct: rgba(17, 109, 110, 0.9);
+      --lumo-body-text-color: hsla(214, 96%, 96%, 0.9);
+      --lumo-success-text-color: hsl(159, 76%, 57%);
+
+    }
