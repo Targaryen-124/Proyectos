@@ -84,6 +84,8 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\Yohana Padilla\Desktop\Avanzada 2\ProyectoGestionInventarioGrupo4"/>
+			<item value="C:\Users\Yohana Padilla\Desktop\Avanzada 2\ProyectoFinalGrupo4"/>
 			<item value="C:\Users\Yohana Padilla\Desktop\Avanzada 2\Proyectos\ProyectoFinalPAV2Grupo4"/>
 			<item value="C:\Users\Yohana Padilla\Desktop\Avanzada 2\my-app (1)"/>
 			<item value="C:\Users\Yohana Padilla\Desktop\Avanzada 2\checkout"/>
@@ -93,12 +95,12 @@
 			<item value="C:\Users\Yohana Padilla\Desktop\Avanzada 2\Proyectos\sistemamatricula\sistemamatricula"/>
 		</list>
 		<list key="projectNameTemplate">
+			<item value="[name]"/>
 			<item value="[artifactId]"/>
 			<item value="[artifactId]-TRUNK"/>
 			<item value="[artifactId]-[version]"/>
 			<item value="[groupId].[artifactId]"/>
 			<item value="[groupId].[artifactId]-[version]"/>
-			<item value="[name]"/>
 		</list>
 	</section>
 </section>
